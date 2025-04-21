@@ -26,8 +26,15 @@ Perfect for **security researchers**, **blue teams**, **bug bounty hunters**, or
 - 🎨 Terminal UI with colors and ASCII banner via `rich` and `pyfiglet`
 - 💾 Export **available** and **taken** domains to separate `.txt` files
 - 🧪 Educational, ethical, and safe for research
+<table>
+<tr>
+<td><img src="https://jull3.se/img1.png" width="100%"></td>
+<td><img src="https://jull3.se/img.png" width="100%"></td>
+</tr>
+</table>
 
----
+
+--
 
 ## 💻 Usage
 
@@ -36,3 +43,6 @@ Perfect for **security researchers**, **blue teams**, **bug bounty hunters**, or
 git clone https://github.com/Jull3Hax0r/domainz.git
 cd domainz
 ./domainz
+
+
+
