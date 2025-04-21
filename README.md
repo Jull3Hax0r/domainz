@@ -29,19 +29,10 @@ Perfect for **security researchers**, **blue teams**, **bug bounty hunters**, or
 
 ---
 
-## 🔧 Requirements
-Only needed if running the `.py` script directly:
-
-```bash
-- Python 3.6+
-- `pip install pyfiglet rich`
-
----
-
 ## 💻 Usage
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/domainz.git
+git clone https://github.com/Jull3Hax0r/domainz.git
 cd domainz
 ./domainz
