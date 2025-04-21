@@ -1,7 +1,7 @@
 # 🧠 D0mainz – Suspicious Domain Generator
 
 ![banner](https://img.shields.io/badge/Made_by-Jull3Hax0r-green?style=flat-square)  
-**Only for education** ⚠️ Use responsibly
+**Only for education/Protection** ⚠️ Use responsibly
 
 ---
 
