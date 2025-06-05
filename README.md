@@ -1,6 +1,8 @@
 # 🧠 D0mainz – Suspicious Domain Generator
 
 ![banner](https://img.shields.io/badge/Made_by-Jull3Hax0r-green?style=flat-square)  
+![Whitehat](https://img.shields.io/badge/Use-Whitehat-green.svg)
+![Python](https://img.shields.io/badge/Made%20with-Python-FFD43B.svg)
 **Only for education/Protection** ⚠️ Use responsibly
 
 ---
