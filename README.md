@@ -28,8 +28,8 @@ Perfect for **security researchers**, **blue teams**, **bug bounty hunters**, or
 - 🧪 Educational, ethical, and safe for research
 <table>
 <tr>
-<td><img src="https://jull3.se/img1.png" width="100%"></td>
-<td><img src="https://jull3.se/img.png" width="100%"></td>
+<td><img src="https://jull3.se/domain.png" width="100%"></td>
+<td><img src="https://jull3.se/domain1.png" width="100%"></td>
 </tr>
 </table>
 
